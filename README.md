@@ -1,1 +1,3 @@
 # shooter-simple-game-java
+
+This is a simple 2D shooter game developed in Java using Swing. The game is designed to enhance my understanding of Object-Oriented Programming (OOP) concepts. In the game, the player controls a spaceship that moves horizontally and shoots bullets to destroy incoming aliens. The game features basic collision detection, score tracking, and multiple levels of increasing difficulty. The project helped reinforce key OOP principles such as inheritance, and polymorphism.
